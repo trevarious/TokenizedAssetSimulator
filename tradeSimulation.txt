@@ -1,0 +1,364 @@
+Initial Token State:
+  Price: $10.00
+  Total Supply: 0
+  Scaling Factor: 900
+
+Scaling Factor Adjusted: 
+  Action: buy
+  New Factor: 901
+
+Price Dynamics:
+  Change: $8.19
+  Percent Change: 81.90%
+
+BUY Operation:
+  Amount: 4 tokens
+  Supply: 0 → 4
+  Price: $10.00 → $18.19
+  Highest Price: $18.19
+
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+
+Price Dynamics:
+  Change: $-0.29
+  Percent Change: -1.59%
+
+SELL Operation:
+  Amount: 1 tokens
+  Supply: 4 → 3
+  Price: $18.19 → $17.90
+  Highest Price: $18.19
+Scaling Factor Adjusted: 
+
+  Action: buy
+  New Factor: 901
+Price Dynamics:
+  Change: $1.20
+  Percent Change: 6.73%
+BUY Operation:
+  Amount: 7 tokens
+  Supply: 3 → 10
+  Price: $17.90 → $19.11
+  Highest Price: $19.11
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+Price Dynamics:
+  Change: $-2.30
+  Percent Change: -12.05%
+SELL Operation:
+  Amount: 9 tokens
+  Supply: 10 → 1
+  Price: $19.11 → $16.80
+  Highest Price: $19.11
+Scaling Factor Adjusted: 
+  Action: buy
+  New Factor: 901
+Price Dynamics:
+  Change: $1.39
+  Percent Change: 8.25%
+BUY Operation:
+  Amount: 3 tokens
+  Supply: 1 → 4
+  Price: $16.80 → $18.19
+  Highest Price: $19.11
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+Price Dynamics:
+  Change: $-0.69
+  Percent Change: -3.82%
+SELL Operation:
+  Amount: 2 tokens
+  Supply: 4 → 2
+  Price: $18.19 → $17.50
+  Highest Price: $19.11
+Scaling Factor Adjusted: 
+  Action: buy
+  New Factor: 901
+Price Dynamics:
+  Change: $1.25
+  Percent Change: 7.16%
+BUY Operation:
+  Amount: 5 tokens
+  Supply: 2 → 7
+  Price: $17.50 → $18.75
+  Highest Price: $19.11
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+Price Dynamics:
+  Change: $-0.16
+  Percent Change: -0.83%
+SELL Operation:
+  Amount: 1 tokens
+  Supply: 7 → 6
+  Price: $18.75 → $18.59
+  Highest Price: $19.11
+Scaling Factor Adjusted: 
+  Action: buy
+  New Factor: 901
+Price Dynamics:
+  Change: $0.77
+  Percent Change: 4.16%
+BUY Operation:
+  Amount: 7 tokens
+  Supply: 6 → 13
+  Price: $18.59 → $19.37
+  Highest Price: $19.37
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+Price Dynamics:
+  Change: $-0.49
+  Percent Change: -2.51%
+SELL Operation:
+  Amount: 5 tokens
+  Supply: 13 → 8
+  Price: $19.37 → $18.88
+  Highest Price: $19.37
+Scaling Factor Adjusted: 
+  Action: buy
+  New Factor: 901
+Price Dynamics:
+  Change: $0.69
+  Percent Change: 3.68%
+BUY Operation:
+  Amount: 8 tokens
+  Supply: 8 → 16
+  Price: $18.88 → $19.58
+  Highest Price: $19.58
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+Price Dynamics:
+  Change: $-0.83
+  Percent Change: -4.23%
+SELL Operation:
+  Amount: 9 tokens
+  Supply: 16 → 7
+  Price: $19.58 → $18.75
+  Highest Price: $19.58
+Scaling Factor Adjusted: 
+  Action: buy
+  New Factor: 901
+Price Dynamics:
+  Change: $0.13
+  Percent Change: 0.72%
+BUY Operation:
+  Amount: 1 tokens
+  Supply: 7 → 8
+  Price: $18.75 → $18.88
+  Highest Price: $19.58
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+Price Dynamics:
+  Change: $-0.29
+  Percent Change: -1.53%
+SELL Operation:
+  Amount: 2 tokens
+  Supply: 8 → 6
+  Price: $18.88 → $18.59
+  Highest Price: $19.58
+Scaling Factor Adjusted: 
+  Action: buy
+  New Factor: 901
+Price Dynamics:
+  Change: $0.51
+  Percent Change: 2.75%
+BUY Operation:
+  Amount: 4 tokens
+  Supply: 6 → 10
+  Price: $18.59 → $19.11
+  Highest Price: $19.58
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+Price Dynamics:
+  Change: $-1.61
+  Percent Change: -8.43%
+SELL Operation:
+  Amount: 8 tokens
+  Supply: 10 → 2
+  Price: $19.11 → $17.50
+  Highest Price: $19.58
+Scaling Factor Adjusted: 
+  Action: buy
+  New Factor: 901
+Price Dynamics:
+  Change: $1.79
+  Percent Change: 10.24%
+BUY Operation:
+  Amount: 10 tokens
+  Supply: 2 → 12
+  Price: $17.50 → $19.29
+  Highest Price: $19.58
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+Price Dynamics:
+  Change: $-0.54
+  Percent Change: -2.80%
+SELL Operation:
+  Amount: 5 tokens
+  Supply: 12 → 7
+  Price: $19.29 → $18.75
+  Highest Price: $19.58
+Scaling Factor Adjusted: 
+  Action: buy
+  New Factor: 901
+Price Dynamics:
+  Change: $0.36
+  Percent Change: 1.91%
+BUY Operation:
+  Amount: 3 tokens
+  Supply: 7 → 10
+  Price: $18.75 → $19.11
+  Highest Price: $19.58
+Scaling Factor Adjusted: 
+  Action: sell
+  New Factor: 900
+Price Dynamics:
+  Change: $-1.61
+  Percent Change: -8.43%
+SELL Operation:
+  Amount: 8 tokens
+  Supply: 10 → 2
+  Price: $19.11 → $17.50
+  Highest Price: $19.58
+  
+Simulation Results: {
+  "initialBalance": 1000,
+  "finalBalance": 1049.4626946259152,
+  "trades": [
+    {
+      "type": "buy",
+      "amount": 4,
+      "price": 10,
+      "balanceAfter": 960
+    },
+    {
+      "type": "sell",
+      "amount": 1,
+      "price": 17.901377353792615,
+      "balanceAfter": 978.1900770497191
+    },
+    {
+      "type": "buy",
+      "amount": 7,
+      "price": 17.901377353792615,
+      "balanceAfter": 852.8804355731708
+    },
+    {
+      "type": "sell",
+      "amount": 9,
+      "price": 16.803505257608336,
+      "balanceAfter": 1024.8362475632862
+    },
+    {
+      "type": "buy",
+      "amount": 3,
+      "price": 16.803505257608336,
+      "balanceAfter": 974.4257317904612
+    },
+    {
+      "type": "sell",
+      "amount": 2,
+      "price": 17.496097345175954,
+      "balanceAfter": 1010.8058858898993
+    },
+    {
+      "type": "buy",
+      "amount": 5,
+      "price": 17.496097345175954,
+      "balanceAfter": 923.3253991640195
+    },
+    {
+      "type": "sell",
+      "amount": 1,
+      "price": 18.594339400592894,
+      "balanceAfter": 942.0749731121024
+    },
+    {
+      "type": "buy",
+      "amount": 7,
+      "price": 18.594339400592894,
+      "balanceAfter": 811.9145973079521
+    },
+    {
+      "type": "sell",
+      "amount": 5,
+      "price": 18.881975184248866,
+      "balanceAfter": 908.7572972412008
+    },
+    {
+      "type": "buy",
+      "amount": 8,
+      "price": 18.881975184248866,
+      "balanceAfter": 757.70149576721
+    },
+    {
+      "type": "sell",
+      "amount": 9,
+      "price": 18.748463629942055,
+      "balanceAfter": 933.8869658705171
+    },
+    {
+      "type": "buy",
+      "amount": 1,
+      "price": 18.748463629942055,
+      "balanceAfter": 915.138502240575
+    },
+    {
+      "type": "sell",
+      "amount": 2,
+      "price": 18.594339400592894,
+      "balanceAfter": 952.9046732893842
+    },
+    {
+      "type": "buy",
+      "amount": 4,
+      "price": 18.594339400592894,
+      "balanceAfter": 878.5273156870126
+    },
+    {
+      "type": "sell",
+      "amount": 8,
+      "price": 17.496097345175954,
+      "balanceAfter": 1031.3769263448928
+    },
+    {
+      "type": "buy",
+      "amount": 10,
+      "price": 17.496097345175954,
+      "balanceAfter": 856.4159528931333
+    },
+    {
+      "type": "sell",
+      "amount": 5,
+      "price": 18.748463629942055,
+      "balanceAfter": 952.858474857861
+    },
+    {
+      "type": "buy",
+      "amount": 3,
+      "price": 18.748463629942055,
+      "balanceAfter": 896.6130839680349
+    },
+    {
+      "type": "sell",
+      "amount": 8,
+      "price": 17.496097345175954,
+      "balanceAfter": 1049.4626946259152
+    }
+  ],
+  "finalState": {
+    "currentPrice": 17.496097345175954,
+    "totalSupply": 2,
+    "highestPrice": 19.576163344811903,
+    "scalingFactor": 900
+  }
+}
