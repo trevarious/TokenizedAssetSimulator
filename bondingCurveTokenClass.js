@@ -1,6 +1,6 @@
 import ActivityManager from "./activityManager/activityManager";
 import BurnManager from "./burnManager/burnManager";
-import Calculate from "./utils/calculateClass";
+import Calculate from "./priceManager/utils/calculateClass";
 import VolumeManager from "./volumeManager/volumeManager";
 import Initializer from "./initializer/initializer";
 import Validator from "./validator/validator";
