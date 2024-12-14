@@ -1,4 +1,4 @@
-import TokenBondingCurve from "/tokenizedAsset.js";
+import TokenBondingCurve from "./tokenizedAsset.js";
 
 // Create token instance
 let token = new TokenBondingCurve(100, 100);
